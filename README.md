@@ -19,12 +19,15 @@ DataSei Link - https://figshare.com/articles/dataset/Eye_Tracker_Data/19729636/2
 
 Paper Link - https://www.nature.com/articles/s41597-022-01862-w#Sec10
 
+
+
 Code File Specifications.
 
 1. First, in general, all of the data from two groups is loaded and analysed.
 2. Working on DataSetII files to determine empathy score.
 3. Working on DataSetIII files to determine empathy score.
 4. Working on DataSets II and III to determine empathy score.
+5. Here, Theree files are merged in one file. ( First General data loaded of both group analysed , DataSetII and DataSetIII Comparision file, Working on both Data)
 
 
 References
