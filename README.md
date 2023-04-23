@@ -1,5 +1,6 @@
 # Assignment2_DataScience
 Dataset of Eye Tracking for Predicting Empathy Levels
+
 This research investigates a dataset that uses eye tracking technology to detect the width of the eye pupil and predicts levels of empathy among people while performing a specific task. To predict empathy assessment, the dataset comprises variables based on pupil dilation, eye location, and gazing.
 
 Investigation of Datasets
@@ -12,6 +13,11 @@ My findings reveal that the more severe the depressive symptoms, the less dilate
 
 Conclusion
 Finally, this article shows how eye tracking data can be used to predict empathy levels. We hope that our findings will spur additional study in this area and help to build more precise and reliable approaches for predicting empathy assessment.
+
+DataSei Link - https://figshare.com/articles/dataset/Eye_Tracker_Data/19729636/2
+
+Paper Link - https://www.nature.com/articles/s41597-022-01862-w#Sec10
+
 
 References
 [1] P. Lencastre, S. Bhurtel, A. Yazidi, S. Denysov, P. G. Lind, et al. Eyet4empathy: Dataset of foraging for
