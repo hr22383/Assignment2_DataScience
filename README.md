@@ -13,3 +13,4 @@ My findings reveal that the more severe the depressive symptoms, the less dilate
 Conclusion
 Finally, this article shows how eye tracking data can be used to predict empathy levels. We hope that our findings will spur additional study in this area and help to build more precise and reliable approaches for predicting empathy assessment.
 
+Data Set  Link https://www.nature.com/articles/s41597-022-01862-w
